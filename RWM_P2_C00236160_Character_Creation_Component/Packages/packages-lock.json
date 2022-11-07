@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "character_creator": {
+      "version": "file:character_creator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "7.0.7",
       "depth": 1,

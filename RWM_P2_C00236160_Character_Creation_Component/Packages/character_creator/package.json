@@ -1,0 +1,7 @@
+{
+    "name": "character_creator",
+    "version": "0.1.0",
+    "displayName": "CharacterCreator",
+    "description": "A component that allows character creation",
+    "unity": "2021.3"
+}

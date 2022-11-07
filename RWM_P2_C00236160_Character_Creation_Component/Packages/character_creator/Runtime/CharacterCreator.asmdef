@@ -1,0 +1,16 @@
+{
+    "name": "CharacterCreator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f818a191268019c4ca34dc81f9896490"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
