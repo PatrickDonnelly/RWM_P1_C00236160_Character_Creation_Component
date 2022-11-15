@@ -1,8 +1,9 @@
 {
-    "name": "CharacterCreator",
+    "name": "CharacterCreatorAssembly",
     "rootNamespace": "",
     "references": [
-        "GUID:f818a191268019c4ca34dc81f9896490"
+        "Unity.TextMeshPro.Editor",
+        "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
